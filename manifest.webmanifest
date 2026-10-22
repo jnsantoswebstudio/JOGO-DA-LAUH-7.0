@@ -1,0 +1,22 @@
+{
+  "name": "Monster High: O Reino das Marés da Lauana — 8 Portais",
+  "short_name": "Marés da Lauana",
+  "description": "Aventura mobile de 8 portais, 48 missões, minigames e resgate final",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#07051b",
+  "theme_color": "#170b35",
+  "orientation": "landscape",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
